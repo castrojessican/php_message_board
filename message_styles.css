@@ -1,0 +1,15 @@
+/* Stylesheet for the PostMessage and MessageBoard PHP
+documents */
+
+body{
+	background-color: lightsteelblue;
+}
+
+h1 {
+	font-size: 2.6em;
+	letter-spacing: 8px;
+	font-family: "Arial Black", sans-serif;
+	color: darkmagenta;
+	text-shadow: 2px 2px 3px black;
+}
+
